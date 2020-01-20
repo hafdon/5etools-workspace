@@ -1,0 +1,15 @@
+{
+    "$title_new_file_default": {
+        "prefix": "5e-title",
+        "body": [
+            "module.exports = {",
+            "    name: '$1',",
+            "    type: 'title',",
+            "    source: 'zorq',",
+            "    entries: ['$2'],",
+            "};",
+            ""
+        ],
+        "description": "create new file default for $title folder"
+    }
+}

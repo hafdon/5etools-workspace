@@ -1,0 +1,25 @@
+{
+    "giddy_item_template": {
+        "prefix": "gidi",
+        "body": [
+            "module.exports = {",
+            "    name: '$1',",
+            "    short: '$1',",
+            "    type: '$2',",
+            "",
+            "    tier: '$3',",
+            "    // weight: 1,",
+            "    rarity: '$4',",
+            "",
+            "    source: 'zorq',",
+			"    // page: null,",
+			"    wondrous: true,",
+            "    entries: [",
+            "        '$5',",
+            "    ],",
+            "};",
+            ""
+        ],
+        "description": "create template for giddy item js"
+    }
+}

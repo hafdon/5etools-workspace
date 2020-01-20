@@ -1,0 +1,15 @@
+{
+  "name": "homebrew_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "set-aliases": "source ./bin/aliases.sh",
+    "atrait" : "/bin/bash ./bin/trait_template.sh",
+    "lstrait" : "/bin/bash ./bin/trait_show.sh",
+    "show" : "/bin/bash ./bin/show.sh"
+  },
+  "author": "Zachary Alec Weisser",
+  "license": "ISC"
+}

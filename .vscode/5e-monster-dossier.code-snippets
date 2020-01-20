@@ -1,0 +1,24 @@
+{
+    "5e-monster-dossier": {
+        "prefix": "5edoss",
+        "body": [
+            "{",
+            "            type: 'inset',",
+            "            entries: [",
+            "                { name: 'Purpose', entries: [''] },",
+            "                { name: 'Background', entries: [''] },",
+            "                { name: 'Aliases', entries: ['slime dot org', 'slimort'] },",
+            "                {",
+            "                    name: 'Appearance and Mannerisms',",
+            "                    entries: [",
+            "                        'self-conscious of: ',",
+            "                        'wants to be (thought of as): ',",
+            "                        'modest about:',",
+            "                    ],",
+            "                },",
+            "            ],",
+            "        },"
+        ],
+        "description": "create inset"
+    }
+}

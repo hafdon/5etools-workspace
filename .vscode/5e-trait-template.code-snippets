@@ -1,0 +1,18 @@
+{
+    "5e-trait-template": {
+        "prefix": "5etrait",
+        "body": [
+            "module.exports = {",
+            "    name: '$1',",
+            "    type: 'trait',",
+            "    source: 'zorq',",
+            "",
+            "    entries: [",
+            "        '{@$creaturename.cd} $2',",
+            "    ],",
+            "};",
+            ""
+        ],
+        "description": "create template for trait"
+    }
+}
